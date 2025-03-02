@@ -1,8 +1,8 @@
-﻿# Lista-de-Caf-
+﻿# Lista-de-Café
 
 Gabriel Soares
 
-
+![image](https://github.com/user-attachments/assets/a2b7c689-1065-47c6-9fa1-be2f386df5bc)
 
 ---
 
